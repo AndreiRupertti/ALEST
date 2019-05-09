@@ -5,7 +5,7 @@ import java.util.*;
 * @author Michael da Costa Móra
 * @param <E> Tipo dos dados armazenados na lista.
 */
-public interface ListTAD <E extends Comparable<E>> {
+public interface ListTAD <T> {
 
 
 /**********
